@@ -1,0 +1,65 @@
+[
+    {
+        "Dita": "E Hene",
+        "Data": "10/01/2022",
+        "Koha": "Me Re",
+        "Temperatura": 5,
+        "Probabiliteti i Reshjeve": 2,
+        "Era": 11,
+        "Lageshtia": 63
+    },
+    {
+        "Dita": "E Marte",
+        "Data": "11/01/2022",
+        "Koha": "e kthjellët",
+        "Temperatura": 7,
+        "Probabiliteti i Reshjeve": 1,
+        "Era": 15,
+        "Lageshtia": 52
+    },
+    {
+        "Dita": "E Merkure",
+        "Data": "12/01/2022",
+        "Koha": "Pjesërisht me re",
+        "Temperatura": 5,
+        "Probabiliteti i Reshjeve": 1,
+        "Era": 9,
+        "Lageshtia": 49
+    },
+    {
+        "Dita": "E Ejte",
+        "Data": "13/01/2022",
+        "Koha": "Pjesërisht me re",
+        "Temperatura": 4,
+        "Probabiliteti i Reshjeve": 2,
+        "Era": 6,
+        "Lageshtia": 62
+    },
+    {
+        "Dita": "E Prmte",
+        "Data": "14/01/2022",
+        "Koha": "Pjesërisht e kthjellet",
+        "Temperatura": 5,
+        "Probabiliteti i Reshjeve": 11,
+        "Era": 6,
+        "Lageshtia": 63
+    },
+    {
+        "Dita": "E Shtune",
+        "Data": "15/01/2022",
+        "Koha": "e kthjellet",
+        "Temperatura": 5,
+        "Probabiliteti i Reshjeve": 45,
+        "Era": 6,
+        "Lageshtia": 66
+    },
+    {
+        "Dita": "E Diele",
+        "Data": "16/01/2022",
+        "Koha": "Shi",
+        "Temperatura": 7,
+        "Probabiliteti i Reshjeve": 69,
+        "Era": 9,
+        "Lageshtia": 71
+    }
+]
